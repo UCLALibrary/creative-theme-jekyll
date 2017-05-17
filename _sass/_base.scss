@@ -112,17 +112,17 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: #00A5E5; // rgba(white, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: #00A5E5; // white;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: #00A5E5; // rgba(white, .7);
             &:hover {
-                color: white;
+                color: #00A5E5; // white;
             }
         }
         &.affix {
